@@ -7,7 +7,7 @@ public class TicketBookingClass {
 	static void seats() {
 		if (seats > 0) {
 			System.out.println("** Congratulations.** \n Seats Are Booked.  **");
-			seats = seats - 2;
+			seats = seats - 2 ;
 
 		} else {
 			System.out.println("sorry... No seats Are Available.");
